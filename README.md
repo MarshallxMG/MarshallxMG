@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MarshallxMG
-- 👀 I’m interested in Coding, Ethinical Hacking, Cyber security
-- 🌱 I’m currently learning Java, C#
-- 💞️ I’m looking to collaborate on projects relatred to Ethinacal Hacking
+- 👋 Hi, I’m Manas Goel
+- 👀 I’m interested in Coding, Machine Learning, Big Data
+- 🌱 I’m currently learning Pyhton, Java
+- 💞️ I’m looking to collaborate on projects relatred to Machine Learning
 - 📫 You can reach me via instagram manas.goel
 
 <!---
