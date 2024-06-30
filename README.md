@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manas Goel
 - 👀 I’m interested in Coding, Machine Learning, Big Data
-- 🌱 I’m currently learning Pyhton, Java
+- 🌱 I’m currently learning Python, Java
 - 💞️ I’m looking to collaborate on projects relatred to Machine Learning
 - 📫 You can reach me via instagram manas.goel
 
