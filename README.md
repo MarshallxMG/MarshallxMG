@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manas Goel
 - 👀 I’m interested in Coding, Machine Learning, Big Data, Power BI
 - 🌱 I’m currently learning Python, Java
-- 💞️ I’m looking to collaborate on projects relatred to Machine Learning
+- 💞️ I’m looking to collaborate on projects relatred to Machine Learning AND Power BI
 - 📫 You can reach me via instagram manas.goel
 
 <!---
