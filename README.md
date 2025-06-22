@@ -7,11 +7,11 @@
 
 - 🔭 I've completed my work on [Music Player](https://github.com/MarshallxMG/Music-Player.)
 
-- 🌱 I’m currently learning **JAVA, HTML, CSS**
-
 - 👯 I've also completed my work on [Smart Converter](https://github.com/MarshallxMG/Smart-converter)
 
 - 🤝 I’ve also completed my work on [Blinkit Dashboard](https://github.com/MarshallxMG/Blinkit-Dashboard-using-Power-BI)
+
+- 🌱 I’m currently learning **JAVA, HTML, CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
