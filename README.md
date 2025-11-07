@@ -10,35 +10,35 @@
 ---
 
 # 🧑‍💻 About Me
-I'm a Python developer focused on building **desktop applications**, **automation systems**, and **data tools**.  
-I love exploring new technologies and bringing creative ideas to life.
+I'm a Python developer who enjoys building **desktop applications**, **automation tools**, and **data-driven dashboards**. I love experimenting with new technologies and turning ideas into real, functional tools.
 
-- 🖥️ Author of a full **SQL Editor Desktop Application**  
-- 🎧 Created a GUI-based **Music Player**  
-- 🔄 Built a fast & simple **Smart Converter**  
-- 📊 Developed a commercial-grade **Blinkit Dashboard** in Power BI  
-- 🌱 Currently learning **Java, HTML, and CSS**
+- 🖥️ Developer of a full **SQL Editor Desktop App**  
+- 🎵 Created a GUI-based **Music Player**  
+- 🔄 Built a **Smart Converter Utility**  
+- 📊 Developed a **Blinkit Dashboard (Power BI)**  
+- 🌱 Currently learning **Java, HTML, CSS**  
+- 💡 Curious mind, always exploring new tech  
 
 ---
 
 # 🛠️ Tech Stack & Tools
 
-### ✅ Languages
-<p>
+### ✅ **Languages**
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge">
 </p>
 
-### ✅ Libraries & Frameworks
-<p>
+### ✅ **Libraries / Frameworks**
+<p align="left">
   <img src="https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge&logo=python&logoColor=black">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white&style=for-the-badge">
 </p>
 
-### ✅ Tools
-<p>
+### ✅ **Tools**
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge">
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white&style=for-the-badge">
@@ -50,34 +50,30 @@ I love exploring new technologies and bringing creative ideas to life.
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
-### 🔥 **SQL Editor (Desktop App)**
-A powerful, modern MySQL GUI client built with Python, Tkinter & ttkbootstrap.
-
-✅ Multi-tab query editor  
+### 🔥 **SQL Editor (Full Desktop App)**
+A powerful MySQL GUI Client built using Python, Tkinter & ttkbootstrap.  
+✅ Multi-tab editor  
 ✅ Auto-complete  
 ✅ Schema browser  
-✅ Dark & light themes  
-✅ EER diagram generator  
-✅ Excel/CSV export  
-
-🔗 **Repo:** https://github.com/MarshallxMG/SQL-Editor
+✅ Dark mode  
+✅ EER Diagram builder  
+🔗 **Repo:** https://github.com/MarshallxMG/SQL-Editor  
 
 </td>
-
-<td width="50%">
+<td>
 
 ### 🎵 **Music Player**  
-Beautiful GUI MP3 player with playlist support.  
+GUI music player with playlist support and controls.  
 🔗 https://github.com/MarshallxMG/Music-Player
 
 ### 🔄 **Smart Converter**  
-Convert files, units, and more in one tool.  
+All-in-one file and unit converter.  
 🔗 https://github.com/MarshallxMG/Smart-converter
 
 ### 📊 **Blinkit Dashboard (Power BI)**  
-Interactive business analytics dashboard.  
+Business analytics dashboard created in Power BI.  
 🔗 https://github.com/MarshallxMG/Blinkit-Dashboard-using-Power-BI
 
 </td>
@@ -86,7 +82,7 @@ Interactive business analytics dashboard.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats (Dark/Light Mode Aware)
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=MarshallxMG&show_icons=true&theme=default" />
@@ -95,24 +91,21 @@ Interactive business analytics dashboard.
 
 ---
 
-# 🐍 Contribution Snake (Fixed — fits grid perfectly)
+# 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarshallxMG/MarshallxMG/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarshallxMG/MarshallxMG/output/github-contribution-grid-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/MarshallxMG/MarshallxMG/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 # 🌐 Connect With Me
 
-<p>
+<p align="left">
   <a href="https://linkedin.com/in/manas-goel" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
   </a>
+  
   <a href="https://instagram.com/manas.goel" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="48" />
   </a>
@@ -120,4 +113,4 @@ Interactive business analytics dashboard.
 
 ---
 
-<h3 align="center">⭐ Thanks for stopping by! ⭐</h3>
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
