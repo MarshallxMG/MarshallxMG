@@ -102,7 +102,7 @@ Business analytics dashboard created in Power BI.
 # 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/manas-goel" target="_blank">
+  <a href="https://www.linkedin.com/in/manas-goel-34845a236/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
   </a>
   
