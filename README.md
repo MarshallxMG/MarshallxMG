@@ -140,17 +140,17 @@ Business analytics dashboard created in Power BI.
 # 📊 GitHub Stats (Dark/Light Mode Aware)
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MarshallxMG&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarshallxMG&layout=compact&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MarshallxMG&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarshallxMG&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarshallxMG&theme=radical&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=MarshallxMG&theme=radical&hide_border=false" />
 </p>
 
 <!-- ===================== TROPHIES ===================== -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarshallxMG&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MarshallxMG&theme=radical&no-frame=true&margin-w=8&row=1&column=7" />
 </p>
 
 ---
