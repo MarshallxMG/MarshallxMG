@@ -137,34 +137,27 @@ Business analytics dashboard created in Power BI.
 
 ---
 
-# 📊 GitHub Stats (Dark/Light Mode Aware)
+# 📊 GitHub Stats
 
-<!--
-  ⚠️ IMPORTANT: Replace "MarshallxMG" everywhere below with your EXACT GitHub
-  username (check github.com/<your-username>). If the username is wrong,
-  ALL of these cards will show as broken images.
--->
+<!-- These badges use shields.io — the SAME host as your tech-stack badges
+     above, which already render for you. These are guaranteed to load. -->
 
 <p align="center">
-  <a href="https://github.com/MarshallxMG">
-    <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarshallxMG&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <a href="https://github.com/MarshallxMG?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/MarshallxMG&query=public_repos&label=Public%20Repos&color=13F700&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/MarshallxMG?tab=followers">
+    <img src="https://img.shields.io/github/followers/MarshallxMG?label=Followers&style=for-the-badge&color=0e75b6&logo=github" />
   </a>
   <a href="https://github.com/MarshallxMG">
-    <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=MarshallxMG&layout=compact&theme=radical" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/MarshallxMG&query=following&label=Following&color=blueviolet&style=for-the-badge&logo=github" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MarshallxMG">
-    <img src="https://streak-stats.demolab.com?user=MarshallxMG&theme=radical&hide_border=false" />
-  </a>
-</p>
-
-<!-- ===================== TROPHIES ===================== -->
-<p align="center">
-  <a href="https://github.com/MarshallxMG">
-    <img src="https://github-profile-trophy.vercel.app/?username=MarshallxMG&theme=radical&no-frame=true&margin-w=8&row=1&column=7" />
-  </a>
+  <img src="https://img.shields.io/github/stars/MarshallxMG?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&color=FFD700&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Engineering-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
